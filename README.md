@@ -1,7 +1,7 @@
 # WebCraft Studio
 
 ## Overview
-A responsive portfolio website built with HTML, CSS, and vanilla JavaScript to showcase web design skills and projects.
+A modern landing page for a web design studio, built with pure HTML, CSS, and JavaScript. Features responsive design and interactive elements.
 
 ## Features
 - Fully Responsive Design
