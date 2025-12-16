@@ -13,7 +13,7 @@ A modern landing page for a web design studio, built with pure HTML, CSS, and Ja
 ## Technologies
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 ## Screenshots
 <img width="1365" height="595" alt="Снимок экрана 2025-12-16 182015" src="https://github.com/user-attachments/assets/1dffc330-014f-4569-9cb7-cc22bba3d66a" />
